@@ -1,4 +1,3 @@
-import { ReactNode } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { Theme } from '../../Theme';
 import * as C from './styles';

@@ -1,4 +1,3 @@
-import { ReactNode } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { Theme } from '../../Theme';
 import * as C from './styles';
@@ -27,7 +26,7 @@ const handleEntrar = () => {
        <C.Texto>Preencha seus dados para entrar</C.Texto>
        <C.ContainerInput>
          <C.CampoInput>E-mail</C.CampoInput>
-        <C.InputTexto />
+        <C.InputTexto type="text"/>
        </C.ContainerInput>
        <C.ContainerInput>
          <C.CampoInput>Senha</C.CampoInput>

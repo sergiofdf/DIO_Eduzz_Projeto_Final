@@ -1,9 +1,7 @@
-import { useNavigate } from 'react-router-dom';
 import * as C from './styles';
 import calendario from '../../../../../assets/images/calendario.svg';
 
 export const FormCadastro = () => {
-  const navigate = useNavigate();
 
   return(
     <C.Container>

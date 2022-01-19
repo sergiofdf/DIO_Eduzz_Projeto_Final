@@ -1,10 +1,8 @@
-import { useNavigate } from 'react-router-dom';
 import { HeaderCampanhas } from '../Header';
 import { FormCadastro } from './Form';
 import * as C from './styles';
 
 export const CadastroCampanha = () => {
-  const navigate = useNavigate();
 
   return(
     <>

@@ -1,4 +1,3 @@
-import { useNavigate } from 'react-router-dom';
 import { HeaderCampanhas } from '../Header';
 import { CardsCampanhas } from './Cards'; 
 import { ListaCampanhas } from './ListaCampanhas';
@@ -7,7 +6,6 @@ import { LinhaTituloBotao } from './TituloeBotao';
 import imagemListaVazio from '../../../../assets/images/Listavazia.png'
 
 export const ListagemCampanhas = () => {
-  const navigate = useNavigate();
 
   let ListaVazia = true;
 

@@ -14,6 +14,7 @@ display: block;
 export const LogoImage = styled.img`
   width:100px;
   margin: 32px;
+  cursor: pointer; 
 `;
 
 export const Page = styled.div`

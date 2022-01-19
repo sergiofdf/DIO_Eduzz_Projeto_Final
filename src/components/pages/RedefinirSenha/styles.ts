@@ -11,7 +11,7 @@ export const Título = styled.h1`
 export const Texto = styled.p`
   font-size: 16px;
   color: #546E7A;
-  
+  margin-bottom: 16px;
 `;
 
 export const ContainerInput = styled.div`
