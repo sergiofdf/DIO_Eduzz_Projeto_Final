@@ -4,7 +4,7 @@
 Front-end do projeto final do bootcamp Eduzz DIO
 
 Conceitos abordados:
-- Criação de uma página de cadastro e de gerenciamento de campanhas;
+- Criação de uma página de cadastro e de gerenciamento de campanhas com React;
 - Telas de login com autenticação;
 - "Esqueci senha" com envio de email com código de verificação para criar nova senha;
 - Elaboração de telas seguindo design proposto conforme Figma
