@@ -1,7 +1,7 @@
 # Projeto Final Bootcamp Eduzz DIO
 
 
-Front-end do projeto final do bootcamp Eduzz DIO
+Front-end do projeto em React
 
 Conceitos abordados:
 - Criação de uma página de cadastro e de gerenciamento de campanhas com React;
